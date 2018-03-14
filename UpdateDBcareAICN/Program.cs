@@ -18,6 +18,9 @@ namespace UpdateDBcareAICN
 
         static void Main(string[] args)
         {
+            //TEST
+
+
             //directory for log files
             Directory.CreateDirectory("P:\\SpecialP\\Jon\\Resources\\Data\\CareAICN Logs");
 
